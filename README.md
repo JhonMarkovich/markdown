@@ -3,9 +3,9 @@ Zagolovok
 
 * Your first list in markdown
 * Your second list in markdown
-    1. Your first inner_list in markdown
-    2. Your second inner_list in markdown
-    3. Your third inner_list in markdown
+    * Your first inner_list in markdown
+    * Your second inner_list in markdown
+    * Your third inner_list in markdown
 * Your third list in markdown
 ___
 It's **fantastic** information for every people who wants more than other.   
